@@ -21,6 +21,8 @@ Show the results using imshow function from cv2.
 ## Program:
 
 ``` Python
+# Developed by: G Venkata Pavan Kumar.
+# Reg.No.: 212221240013
 # Import the necessary packages
 import numpy as np
 import cv2
@@ -47,15 +49,12 @@ plt.imshow(cv2.cvtColor(image1,cv2.COLOR_BAYER_GR2BGRA))
 ## Output:
 
 ### Display the input Image
-<br>
 ![DIP11 1](https://user-images.githubusercontent.com/94827772/172905109-21202955-9797-4e10-9064-1a98567d9702.png)
 
 ### Display the result of Opening
-<br>
 ![DIP11 2](https://user-images.githubusercontent.com/94827772/172905105-99043e2e-9fe2-4d3c-8f15-012069b1eb7a.png)
 
 ### Display the result of Closing
-<br>
 ![DIP11 3](https://user-images.githubusercontent.com/94827772/172905099-08a70654-e91a-4eeb-931d-9a1aaed01014.png)
 
 
